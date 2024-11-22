@@ -1,0 +1,20 @@
+.x-profile-setting-img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.x-profile-setting-name{
+    color: white;
+    font-size: 11px;
+    height: 11px;
+}
+
+.x-profile-setting-user-name{
+    color: antiquewhite;
+    font-size: 10px;
+}
+
+.x-profile-setting-btn{
+
+}

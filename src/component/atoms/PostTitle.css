@@ -1,0 +1,32 @@
+.x-post-title-name{
+    color: white;
+    size: 10px;
+    margin: 5px 2px;
+
+}
+
+.x-post-title-check{
+    margin: 5px 2px;
+}
+
+.x-post-title-user-name{
+    margin: 5px 2px;
+    color: rgb(113,113,113);
+    font-size: 10px;
+}
+
+.x-post-title-point{
+    margin: 5px 2px;
+    color: rgb(113,113,113);
+    font-size: 10px;
+}
+
+.x-post-title-date{
+    margin: 5px 2px;
+    color: rgb(113,113,113);
+    font-size: 10px;
+}
+
+.x-post-content{
+    height: 30px;
+}

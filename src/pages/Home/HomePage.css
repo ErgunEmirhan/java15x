@@ -1,0 +1,9 @@
+
+.x-right-section{
+    border: 1px solid rgb(80, 76, 76);
+    border-radius: 15px;
+    width: 70%;
+    margin-left: 1%;
+    margin-top: 15px;
+    min-height: 250px;
+}

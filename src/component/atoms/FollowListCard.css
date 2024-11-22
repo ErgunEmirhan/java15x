@@ -1,0 +1,30 @@
+.x-img-avatar{
+    width: 90%;
+    border-radius: 50%;
+}
+
+.x-follow-text-name{
+    font-size: 11px;
+    color: white;
+    font-weight: bold;
+}
+
+.x-follow-text-user-name{
+    font-size: 11px;
+    color: rgb(113,113,113);
+}
+
+.x-list{
+    border: 1px solid #1da1f2;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.x-btn-follow{
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 11px;
+}

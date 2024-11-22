@@ -1,0 +1,35 @@
+.x-new-post-comment{
+    background-color: transparent;
+    border: none;
+    resize: none;
+    outline: none;
+    color: white;
+}
+
+.x-new-post-btn-send{
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    color: white;
+    background-color: #1da1f2;
+    border: none;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.x-new-post-btn-send:hover{
+    background-color: #257cb3;
+}
+
+.x-new-post-bottom-line{
+    border: 1px;
+    height: 1px;
+    width: 96%;
+    color: #b2d5eb;
+}
+
+.x-new-post-icons{
+    margin: 0px;
+    margin-right: 7px;
+}

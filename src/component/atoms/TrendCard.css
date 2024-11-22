@@ -1,0 +1,22 @@
+.x-trend-img{
+    width: 100%;
+    border-radius: 10%;
+}
+
+.x-list{
+    border: 1px solid #1da1f2;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.x-trend-title{
+    display: inline-block;
+    font-size: 9px;
+    color: rgb(113, 113, 113)
+}
+
+.x-form-label{
+    color: white;
+    font-size: 11px;
+
+}
